@@ -4,7 +4,7 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 
 ## Slides
 
-- Introduction to the course
+- [Introduction to the course](https://github.com/polito-WA-2024/materials/blob/master/slide/00-intro-2024-WA.pdf)
 
 ### Javascript
 
