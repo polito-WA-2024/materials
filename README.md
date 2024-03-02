@@ -24,6 +24,10 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 
 - ...
 
+## Exercises and examples in class
+
+- [Exercises and examples developed in the classroom](https://github.com/polito-WA-2024/aw-weeks)
+
 ## Laboratories
 
 - Lab 1: Getting Started with Node.js
