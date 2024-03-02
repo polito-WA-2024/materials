@@ -8,8 +8,8 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 
 ### Javascript
 
-- JavaScript Basics
-- JavaScript Objects and Functions
+- [JavaScript Basics](slide/1-01-javascript-basics.pdf)
+- [JavaScript Objects and Functions](slide/1-02-javascript-objects-functions.pdf)
 - ...
 
 ### Web Servers and server-side APIs
@@ -27,5 +27,5 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 ## Laboratories
 
 - Lab 1: Getting Started with Node.js
-- Lab 2
+- Lab 2: ...
 - ...
