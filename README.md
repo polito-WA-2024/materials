@@ -10,6 +10,8 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 
 - [JavaScript Basics](slide/1-01-javascript-basics.pdf)
 - [JavaScript Objects and Functions](slide/1-02-javascript-objects-functions.pdf)
+- [Javascript keyword 'this'](slide/1-03-javascript-this.pdf)
+- [Javascript libraries and packages](slide/1-04-javascript-libraries-packages.pdf)
 - ...
 
 ### Web Servers and server-side APIs
