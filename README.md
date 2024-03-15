@@ -33,6 +33,6 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 
 ## Laboratories
 
-- Lab 1: [Getting Started with Node.js](labs/lab01-getting-started-node.pdf)
+- Lab 1: [Getting Started with Node.js](labs/lab01-getting-started-node.pdf)  ([Solution](https://github.com/polito-WA-2024/lab01-node))
 - Lab 2: ...
 - ...
