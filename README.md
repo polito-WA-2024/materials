@@ -17,6 +17,9 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 
 ### Web Servers and server-side APIs
 
+- [Web architecture](slide/4-01-web-architecture.pdf)
+- [Express.js](slide/4-02-Express.pdf)
+- [HTTP APIs](slide/4-03-API.pdf)
 - ...
 
 ### Browsers and client-side applications
