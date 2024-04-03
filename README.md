@@ -24,8 +24,11 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 
 ### Browsers and client-side applications
 
+- [Introduction to browsers](slide/2-01-browser-intro.pdf)
+- [Modern HTML](slide/2-02-html.pdf)
+- [Introduction to CSS and modern CSS frameworks](slide/2-03-css.pdf)
 - ...
-
+  
 ### React
 
 - ...
@@ -39,5 +42,5 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - Lab 1: [Getting Started with Node.js](labs/lab01-getting-started-node.pdf)  ([Solution](https://github.com/polito-WA-2024/lab01-node))
 - Lab 2: [Node.js with database](labs/lab02-node-database.pdf)
 - Lab 3: [Express](labs/lab03-express.pdf)
-- Lab 4: ...
+- Lab 4: [Make server APIs more secure](labs/lab04-API-server.pdf)
 - ...
