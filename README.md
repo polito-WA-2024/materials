@@ -37,7 +37,7 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 
 - [Exercises and examples developed in the classroom](https://github.com/polito-WA-2024/aw-weeks)
 
-## Laboratories
+## Laboratories (solutions [here](https://github.com/polito-WA-2024/labs-code))
 
 - Lab 1: [Getting Started with Node.js](labs/lab01-getting-started-node.pdf)  ([Solution](https://github.com/polito-WA-2024/lab01-node))
 - Lab 2: [Node.js with database](labs/lab02-node-database.pdf)
