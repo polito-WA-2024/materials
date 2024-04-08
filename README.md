@@ -26,7 +26,8 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 
 - [Introduction to browsers](slide/2-01-browser-intro.pdf)
 - [Modern HTML](slide/2-02-html.pdf)
-- [Introduction to CSS and modern CSS frameworks](slide/2-03-css.pdf)
+- [Introduction to CSS and modern CSS frameworks (Bootstrap)](slide/2-03-css.pdf)
+- [JS in the browser](https://github.com/polito-WA-2024/materials/blob/main/slide/2-04-JS-browser.pdf)
 - ...
   
 ### React
