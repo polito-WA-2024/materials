@@ -44,4 +44,5 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - Lab 2: [Node.js with database](labs/lab02-node-database.pdf)
 - Lab 3: [Express](labs/lab03-express.pdf)
 - Lab 4: [Make server APIs more secure](labs/lab04-API-server.pdf)
+- Lab 5: [HTML, CSS and Bootstrap](labs/lab05-html-css.pdf)
 - ...
