@@ -45,4 +45,5 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - Lab 3: [Express](labs/lab03-express.pdf)
 - Lab 4: [Make server APIs more secure](labs/lab04-API-server.pdf)
 - Lab 5: [HTML, CSS and Bootstrap](labs/lab05-html-css.pdf)
+- Lab 6: [JS in the browser](labs/lab06-js-browser.pdf)
 - ...
