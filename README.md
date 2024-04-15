@@ -13,7 +13,7 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - [Javascript keyword 'this'](slide/1-03-javascript-this.pdf)
 - [Javascript libraries and packages](slide/1-04-javascript-libraries-packages.pdf)
 - [Asynchronous Programming in JavaScript](slide/1-05-javascript-async-programming.pdf)
-- ...
+- [Javascript modules](slide/1-06-javascript-modules.pdf)
 
 ### Web Servers and server-side APIs
 
@@ -27,8 +27,9 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - [Introduction to browsers](slide/2-01-browser-intro.pdf)
 - [Modern HTML](slide/2-02-html.pdf)
 - [Introduction to CSS and modern CSS frameworks (Bootstrap)](slide/2-03-css.pdf)
-- [JS in the browser](https://github.com/polito-WA-2024/materials/blob/main/slide/2-04-JS-browser.pdf)
-- ...
+- [JS in the browser](slide/2-04-JS-browser.pdf)
+- [JS browser security: Cross-Site Scripting (XSS)](slide/2-05-browser-security-XSS.pdf)
+- [Fetch API](slide/2-06-fetch.pdf)
   
 ### React
 
