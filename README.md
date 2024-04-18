@@ -33,6 +33,8 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
   
 ### React
 
+- [Introduction to React](slide/3-01-React-intro.pdf)
+- [Elements and JSX](slide/3-02-Elements-and-JSX.pdf)
 - ...
 
 ## Exercises and examples in class
@@ -47,4 +49,5 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - Lab 4: [Make server APIs more secure](labs/lab04-API-server.pdf)
 - Lab 5: [HTML, CSS and Bootstrap](labs/lab05-html-css.pdf)
 - Lab 6: [JS in the browser](labs/lab06-js-browser.pdf)
+- Lab 7: [Fetch and XSS](labs/lab07-fetch-xss.pdf)
 - ...
