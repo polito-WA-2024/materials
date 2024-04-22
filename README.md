@@ -35,6 +35,8 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 
 - [Introduction to React](slide/3-01-React-intro.pdf)
 - [Elements and JSX](slide/3-02-Elements-and-JSX.pdf)
+- [Components and state](slide/3-03-Components-and-state-management.pdf)
+- [Forms](slide/3-04-Forms.pdf)
 - ...
 
 ## Exercises and examples in class
