@@ -52,4 +52,5 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - Lab 5: [HTML, CSS and Bootstrap](labs/lab05-html-css.pdf)
 - Lab 6: [JS in the browser](labs/lab06-js-browser.pdf)
 - Lab 7: [Fetch and XSS](labs/lab07-fetch-xss.pdf)
+- Lab 8: [Getting started with React](labs/lab08-getting-started-react.pdf)  
 - ...
