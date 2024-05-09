@@ -47,7 +47,7 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 
 ## Laboratories (solutions [here](https://github.com/polito-WA-2024/labs-code))
 
-- Lab 1: [Getting Started with Node.js](labs/lab01-getting-started-node.pdf)  ([Solution](https://github.com/polito-WA-2024/lab01-node))
+- Lab 1: [Getting Started with Node.js](labs/lab01-getting-started-node.pdf)
 - Lab 2: [Node.js with database](labs/lab02-node-database.pdf)
 - Lab 3: [Express](labs/lab03-express.pdf)
 - Lab 4: [Make server APIs more secure](labs/lab04-API-server.pdf)
@@ -57,4 +57,5 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - Lab 8: [Getting started with React](labs/lab08-getting-started-react.pdf)
 - Lab 9: [React state](labs/lab09-react-state.pdf)
 - Lab 10: [React forms](labs/lab10-forms.pdf)
+- Lab 11: [React router](labs/lab11-router.pdf)
 - ...
