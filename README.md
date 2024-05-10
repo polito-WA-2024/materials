@@ -20,6 +20,8 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - [Web architecture](slide/4-01-web-architecture.pdf)
 - [Express.js](slide/4-02-Express.pdf)
 - [HTTP APIs](slide/4-03-API.pdf)
+- [API security](slide/4-04-API-security.pdf)
+- [CORS](slide/4-05-CORS_and_security.pdf)
 - ...
 
 ### Browsers and client-side applications
@@ -39,6 +41,7 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - [Forms](slide/3-04-Forms.pdf)
 - [Context](slide/3-05-Context.pdf)
 - [Router](slide/3-06-React-Router.pdf)
+- [LifeCycle](slide/3-07-LifeCycle.pdf)
 - ...
 
 ## Exercises and examples in class
