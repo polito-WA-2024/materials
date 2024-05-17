@@ -61,4 +61,5 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - Lab 9: [React state](labs/lab09-react-state.pdf)
 - Lab 10: [React forms](labs/lab10-forms.pdf)
 - Lab 11: [React router](labs/lab11-router.pdf)
+- Lab 12: [Loading data from server](labs/lab12-loading-data-from-server.pdf)
 - ...
