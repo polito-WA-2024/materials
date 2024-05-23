@@ -43,7 +43,6 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - [Context](slide/3-05-Context.pdf)
 - [Router](slide/3-06-React-Router.pdf)
 - [LifeCycle](slide/3-07-LifeCycle.pdf)
-- ...
 
 ## Exercises and examples in class
 
@@ -63,4 +62,5 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - Lab 10: [React forms](labs/lab10-forms.pdf)
 - Lab 11: [React router](labs/lab11-router.pdf)
 - Lab 12: [Loading data from server](labs/lab12-loading-data-from-server.pdf)
+- Lab 13: [Complete client server](labs/lab13-complete-client-server.pdf)
 - ...
