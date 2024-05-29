@@ -64,4 +64,5 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - Lab 11: [React router](labs/lab11-router.pdf)
 - Lab 12: [Loading data from server](labs/lab12-loading-data-from-server.pdf)
 - Lab 13: [Complete client server](labs/lab13-complete-client-server.pdf)
+- Lab 14: [Authentication](labs/lab14-authentication.pdf)
 - ...
