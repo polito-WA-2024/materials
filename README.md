@@ -25,6 +25,7 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - [Authentication](slide/4-06-Authentication.pdf)
 - [Authorization and JWT](slide/4-07-Authorization-JWT.pdf)
 - [Security considerations](slide/4-08-Auth-security.pdf)
+- [Deployment](slide/4-09-Deployment.pdf)
  
 ### Browsers and client-side applications
 
