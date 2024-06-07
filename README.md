@@ -67,4 +67,5 @@ Material for the course _Web Applications I_ (in English) for the Master Degree 
 - Lab 13: [Complete client server](labs/lab13-complete-client-server.pdf)
 - Lab 14: [Authentication](labs/lab14-authentication.pdf)
 - Lab PE: [Practice for exam submission](labs/labPE-submission-practice.pdf)
-- ...
+- Lab 15: [Authorization and JWT](labs/lab15-authorization-jwt.pdf)
+
